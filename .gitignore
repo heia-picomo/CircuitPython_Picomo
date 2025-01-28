@@ -13,3 +13,4 @@ _build
 .idea
 .vscode
 *~
+actions-ci
