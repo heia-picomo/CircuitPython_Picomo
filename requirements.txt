@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: 2025 Jacques Supcik <jacques.supcik@hefr.ch>
+#
+# SPDX-License-Identifier: MIT
+
+adafruit_shtc3
+adafruit_debouncer

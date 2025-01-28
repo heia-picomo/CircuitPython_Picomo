@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2025 Jacques Supcik
+#
+# SPDX-License-Identifier: MIT
+
+.py text eol=lf
+.rst text eol=lf
+.txt text eol=lf
+.yaml text eol=lf
+.toml text eol=lf
+.license text eol=lf
+.md text eol=lf
