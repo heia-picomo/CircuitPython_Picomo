@@ -24,7 +24,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["picomo"]
+packages = ["picomo"]
 
 [tool.setuptools.dynamic]
 dependencies = { file = ["requirements.txt"] }
