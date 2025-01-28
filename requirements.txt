@@ -2,5 +2,5 @@
 #
 # SPDX-License-Identifier: MIT
 
-adafruit_shtc3
+adafruit-circuitpython-shtc3
 adafruit_debouncer
